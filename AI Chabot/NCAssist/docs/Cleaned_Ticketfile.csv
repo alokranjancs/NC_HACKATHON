@@ -1,19 +1,19 @@
-Ticket key,Custom field (External Issue ID),Priority,Status,Assignee,Component/s,Fix Version/s,Created,Updated,Resolution,Custom field (Root Cause Description)
-TTKTT-921558,,Major,Open,abc1,TBAPI,,7/21/2023 9:38,7/22/2023 6:05,,
-TTKTT-921550,,Critical,Open,abc2,TBAPI,,7/21/2023 9:24,7/22/2023 6:05,,
-TTKTT-921548,,Normal,Closed,abc3,MS_Monitoring_TOMS,,7/21/2023 9:14,7/21/2023 9:47,Fixed,ProductLookupID was not valid. Configuration issue
-TTKTT-921539,"XXXX000005925669, XXXX000005924596, XXXX000005925021, XXXX000005926072, XXXX000005925310",Major,In Assessment,abc4,MS_Order Entry,,7/21/2023 8:59,7/22/2023 6:06,,
-TTKTT-921536,XXXX000005907870,Major,Resolved,abc5,MS_Order Entry,,7/21/2023 8:53,7/22/2023 6:06,Not a Bug,Customer Inflight Cancelled the Return order and that's why Custom Plan Data Only remain active.
-TTKTT-921533,,Normal,Closed,abc6,MS_Fulfillment,,7/21/2023 8:48,7/21/2023 8:57,Fixed,
-TTKTT-921526,XXXX000005887022,Major,In Assessment,abc7,Business Analysts,,7/21/2023 8:39,7/22/2023 6:06,,
-TTKTT-921507,,Critical,Resolved,abc8,MS_Billops,,7/21/2023 8:16,7/21/2023 17:02,,Applying only in Mirror to find the root cause.
-TTKTT-921496,XXXX000005924551,Critical,Open,abc9,MS_RBM,,7/21/2023 7:59,7/21/2023 10:04,,
-TTKTT-921490,,Blocker,Ready for Testing,abc10,MS_CBM,,7/21/2023 7:47,7/21/2023 7:48,Fixed,
-TTKTT-921461,XXXX000005923745,Critical,Closed,abc11,MS_Order Entry,,7/21/2023 7:19,7/21/2023 14:54,,ProductLookupID was not present in system. Incorrect test case.
-TTKTT-921259,,Normal,Open,abc12,MS_Order Entry,,7/21/2023 6:36,7/21/2023 10:05,,
-TTKTT-921254,XXXX000005891031,Normal,Closed,abc13,MS_Fulfillment,,7/21/2023 6:20,7/21/2023 14:54,Not a Bug,RCA: Request for External TILL application is not sent.
-TTKTT-921229,XXXX000005925420,Major,Open,abc14,MS_Order Entry,,7/21/2023 2:16,7/21/2023 20:50,,
-TTKTT-921225,,Normal,Closed,abc15,MS_Order Entry,,7/20/2023 23:33,7/20/2023 23:39,Fixed,
-TTKTT-921220,XXXX000005921836,Critical,Closed,pede0822,MS_Order Entry,TTUK.TOMS.MS.DataFix,7/20/2023 22:45,7/21/2023 23:20,Fixed,"DF provided for issue in TTKTT-921195
+Ticket key,Summary,Custom field (External Issue ID),Priority,Status,Assignee,Component/s,Fix Version/s,Created,Updated,Resolution,Custom field (Root Cause Description)
+TTKTT-921558,Getting SWW after confirming Direct Debit in eComm and ePos,,Major,Open,abc1,TBAPI,,7/21/2023 9:38,7/22/2023 6:05,,
+TTKTT-921550,Basket creation from portal is failing on Order Entry side,,Critical,Open,abc2,TBAPI,,7/21/2023 9:24,7/22/2023 6:05,,
+TTKTT-921548,order needs to be processed,,Normal,Closed,abc3,MS_Monitoring_TOMS,,7/21/2023 9:14,7/21/2023 9:47,Fixed,ProductLookupID was not valid. Configuration issue
+TTKTT-921539,Multiple Order payment posted for account - XXX7102kjhsa785,"XXXX000005925669, XXXX000005924596, XXXX000005925021, XXXX000005926072, XXXX000005925310",Major,In Assessment,abc4,MS_Order Entry,,7/21/2023 8:59,7/22/2023 6:06,,
+TTKTT-921536,StoreAgent(s) unable to place an order via application (Some Users),XXXX000005907870,Major,Resolved,abc5,MS_Order Entry,,7/21/2023 8:53,7/22/2023 6:06,Not a Bug,Customer Inflight Cancelled the Return order and that's why Custom Plan Data Only remain active.
+TTKTT-921533,Payment not being collected through Direct Debit when customer is setup for it - 1ads093ssdf2sad,,Normal,Closed,abc6,MS_Fulfillment,,7/21/2023 8:48,7/21/2023 8:57,Fixed,
+TTKTT-921526,Getting 415 Unsupported Media Type Status when we try to hit endpoint for Indirect Orders,XXXX000005887022,Major,In Assessment,abc7,Business Analysts,,7/21/2023 8:39,7/22/2023 6:06,,
+TTKTT-921507,Unallocated pay purposes payments other than Pay Now that are not refunded,,Critical,Resolved,abc8,MS_Billops,,7/21/2023 8:16,7/21/2023 17:02,,Applying only in Mirror to find the root cause.
+TTKTT-921496, Enter in bank details to set up direct debit but i'm hit with an error XXX-42422,XXXX000005924551,Critical,Open,abc9,MS_RBM,,7/21/2023 7:59,7/21/2023 10:04,,
+TTKTT-921490,Disney+ is being charged for the Customer.,,Blocker,Ready for Testing,abc10,MS_CBM,,7/21/2023 7:47,7/21/2023 7:48,Fixed,
+TTKTT-921461,Cannot view historical bills,XXXX000005923745,Critical,Closed,abc11,MS_Order Entry,,7/21/2023 7:19,7/21/2023 14:54,,ProductLookupID was not present in system. Incorrect test case.
+TTKTT-921259,Provide affected customers in format required by XXX,,Normal,Open,abc12,MS_Order Entry,,7/21/2023 6:36,7/21/2023 10:05,,
+TTKTT-921254,ph SIM SWAP Migrated Customer,XXXX000005891031,Normal,Closed,abc13,MS_Fulfillment,,7/21/2023 6:20,7/21/2023 14:54,Not a Bug,RCA: Request for External TILL application is not sent.
+TTKTT-921229,6GB Tariff Getting Unlimited Volt Data Boost.,XXXX000005925420,Major,Open,abc14,MS_Order Entry,,7/21/2023 2:16,7/21/2023 20:50,,
+TTKTT-921225,Incorrect tech specs showing for Netgear Nighthawk M1 Mobile Router,,Normal,Closed,abc15,MS_Order Entry,,7/20/2023 23:33,7/20/2023 23:39,Fixed,
+TTKTT-921220,Commit in PS branch [AD-26579] [06 Jul 23] yml file HF delivery for ePos Shop landing page,XXXX000005921836,Critical,Closed,pede0822,MS_Order Entry,TTUK.TOMS.MS.DataFix,7/20/2023 22:45,7/21/2023 23:20,Fixed,"DF provided for issue in TTKTT-921195
 
 PF still under investigation"

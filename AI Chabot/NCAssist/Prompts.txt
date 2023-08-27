@@ -1,0 +1,36 @@
+Prompts:
+~~~~~~~~
+
+  
+TMS :
+
+Management - Ticket count
+what is the count of ticket in jira? 
+
+
+Management - Open ticket  
+Give me the list of open tickets in tabular format and include Ticket key, Assignee and  Component/s as columns. 
+  
+Management, Developers, BA, QA - Resolved tickets and RCA:
+You have to list down the resolved ticket key and the RCA present in each of these tickets. To do so, first find the tickets with status 'resolved' and then check the 'RCA' of each ticket.
+
+Management, Developers - topics  
+List all the tickets key whose summary is related to "direct debit" or "Direct Debit"
+
+
+Design document: 
+
+Design - BA, Developer - API Details
+What are the input in getProductOffer API call?
+
+BA, Dev and QA - Error messages and codes for scenarios  
+What are the different error messages received for scan PoductLookupID response from middleware? Present in list format and also give the error messages along with code. Include on-screen validation and error messages.
+  
+ERT : 
+
+Support - Tools user for monitoring
+what tools are used by ERT team to monitor 
+
+SOPs-
+   
+If NewRelic alert turns out to be real issue list down steps that are needed to be check in bullet format. Include ticket creation steps as well.
